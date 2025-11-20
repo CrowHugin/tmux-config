@@ -23,7 +23,7 @@ git clone https://github.com/CrowHugin/tmux-config ~/
 
 or 
 ```bash
-git clone https://github.com/CrowHugin/tmux-config ~/config/tmux/
+git clone https://github.com/CrowHugin/tmux-config ~/.config/tmux/
 ```
 
 ---

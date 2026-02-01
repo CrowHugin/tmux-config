@@ -4,7 +4,7 @@ This is the tmux config I use
 Install tmux beforehand
 
 ```bash
-sudo apt-install tmux
+sudo apt-get install tmux
 ```
 
 or 
@@ -27,7 +27,7 @@ git clone https://github.com/CrowHugin/tmux-config ~/.config/tmux/
 ```
 
 ---
-Go inside your file and use `Control Space + I (in capital)` 
+Go inside your file and use `Control B + I (in capital)` 
 
 
 ---

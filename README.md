@@ -29,6 +29,8 @@ git clone https://github.com/CrowHugin/tmux-config ~/.config/tmux/
 ---
 Go inside your file and use `Control B + I (in capital)` 
 
+The prefix will now be `Ctrl Space`
+
 
 ---
 ## Copy & Paste

@@ -1,5 +1,6 @@
 This is the tmux config I use
 
+
 ---
 Install tmux beforehand
 
